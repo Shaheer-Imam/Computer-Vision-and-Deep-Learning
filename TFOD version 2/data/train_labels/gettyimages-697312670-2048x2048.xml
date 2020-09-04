@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gettyimages-697312670-2048x2048.jpg</filename>
+	<path>/home/shaheer/Pictures/cricket/train/gettyimages-697312670-2048x2048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sarfaraz Ahmed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1567</xmin>
+			<ymin>317</ymin>
+			<xmax>1744</xmax>
+			<ymax>504</ymax>
+		</bndbox>
+	</object>
+</annotation>

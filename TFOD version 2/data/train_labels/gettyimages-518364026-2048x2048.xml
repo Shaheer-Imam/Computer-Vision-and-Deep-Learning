@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gettyimages-518364026-2048x2048.jpg</filename>
+	<path>/home/shaheer/Pictures/cricket/train/gettyimages-518364026-2048x2048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MS Dhoni</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>356</ymin>
+			<xmax>757</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

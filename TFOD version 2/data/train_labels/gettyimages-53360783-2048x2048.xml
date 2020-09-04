@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gettyimages-53360783-2048x2048.jpg</filename>
+	<path>/home/shaheer/Pictures/cricket/train/gettyimages-53360783-2048x2048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adam Gilchrist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1531</xmin>
+			<ymin>15</ymin>
+			<xmax>1831</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
